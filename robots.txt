@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uganuofe.github.io/AWP/sitemap_index.txt
+Sitemap: https://uganuofe.github.io/Vcs/sitemap_index.txt
+Sitemap: https://uganuofe.github.io/cJv/sitemap_index.txt
+Sitemap: https://uganuofe.github.io/guQ/sitemap_index.txt
